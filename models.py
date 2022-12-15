@@ -61,7 +61,7 @@ class Contact(db.Model):
         self.make = make
         self.model = model
         self.year = year
-        self.milegae = mileage
+        self.mileage = mileage
         self.user_token = user_token
 
 
